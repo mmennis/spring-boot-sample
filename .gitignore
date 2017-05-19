@@ -3,4 +3,5 @@ build/
 .idea
 !gradle-wrapper.jar
 .gradletasknamecache
+tmp/
 
